@@ -1,0 +1,20 @@
+INSERT INTO Verbale ( dataviolazione, indirizzoviolazione, nominativoagente, datatrascrizioneverbale, importo, decurtamentopunti, IdAnagrafica) 
+VALUES
+('2023-01-01', 'Via Roma 1', 'Agente1', '2022-01-02', 100, 2,1),
+('2023-01-03', 'Via Milano 2', 'Agente2', '2023-01-04', 150, 7,2),
+('2023-01-07', 'Via Napoli 3', 'Agente3', '2020-01-08', 200, 9,7),
+('2023-01-09', 'Via Torino 4', 'Agente4', '2023-01-10', 250, 8,8),
+('2023-01-11', 'Via Firenze 5', 'Agente5', '2023-01-12', 300, 10,9),
+('2023-01-13', 'Via Palermo 6', 'Agente6', '2023-01-14', 350, 7,10),
+('2023-01-15', 'Via Bologna 7', 'Agente7', '2023-01-16', 400, 8,10),
+('2023-01-17', 'Via Catania 8', 'Agente8', '2023-01-18', 450, 9,11),
+('2023-01-19', 'Via Genova 9', 'Agente9', '2009-10-20', 500, 10,14),
+('2023-01-21', 'Via Venezia 10', 'Agente10', '2009-10-22', 550, 11,13),
+('2023-01-23', 'Via Verona 11', 'Agente11', '2009-02-24', 600, 12,14),
+('2023-01-25', 'Via Messina 12', 'Agente12', '2009-02-26', 650, 13,15),
+('2023-01-27', 'Via Padova 13', 'Agente13', '2023-01-28', 700, 14,16),
+('2023-01-29', 'Via Trieste 14', 'Agente14', '2023-01-30', 750, 19,16),
+('2023-01-31', 'Via Taranto 15', 'Agente15', '2023-02-01', 800, 16,18),
+('2023-02-02', 'Via Bari 16', 'Agente16', '2023-02-03', 850, 20,19),
+('2023-02-02', 'Via Napoli 16', 'Agente16', '2023-02-03', 850, 20,20),
+('2023-01-23', 'Via Carcere 11', 'Agente11', '2009-02-24', 600, 12,18);
